@@ -9,7 +9,7 @@ const Navbar = () => {
     { name: 'Home', path: '/' },
     { name: 'About', path: '/about' },
     { name: 'Products', path: '/products' },
-    { name: 'Learn More', path: '/learn-more' },
+    // { name: 'Learn More', path: '/learn-more' },
   ];
 
   const toggleMenu = () => {
