@@ -57,7 +57,7 @@ const BookItem = ({ book, onCheckout }) => {
       <h3 className="text-center text-gray-700 mb-2">{book.title}</h3>
       <p className="text-center text-gray-500 mb-2">
         Soft Copy:{" "}
-        <a href="https://selar.co/" target="_blank">
+        <a href="https://selar.co/m/akan-obio-sunday1" target="_blank">
           Get Now
         </a>
         , Hard Copy: ₦{book.hardCopy.NairaPrice}
@@ -144,7 +144,7 @@ const BookCarousel = () => {
         ))}
       </div>
       <div style={{ textAlign: "center", marginTop: "2rem" }}>
-        <a href="https://selar.co/" target="_blank">
+        <a href="https://selar.co/m/akan-obio-sunday1" target="_blank">
           <button className="px-4 py-2 bg-[#2D89BF] text-white rounded hover:bg-blue-700 hover:bg-[transparent] hover:text-black hover:border hover:border-[#2D89BF]">
             Get Soft-Copy/Ebook
           </button>

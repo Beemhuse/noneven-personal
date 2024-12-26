@@ -11,7 +11,8 @@ const books = [
     title: "Terrorism in the Human Family Interconnecting Security Challenges",
     image: [book1, book1b], 
     softCopy: {
-      NairaPrice: 10000,
+      // NairaPrice: 10000,
+      NairaPrice: 13000,
       DollarPrice: 13,
       EuroPrice: 11,
       PoundPrice: 11,
@@ -30,7 +31,8 @@ const books = [
     image: [book2, book2b],
    
     softCopy: {
-      NairaPrice: 9000,
+      // NairaPrice: 9000,
+      NairaPrice: 12000,
       DollarPrice: 12,
       EuroPrice: 10,
       PoundPrice: 10,
