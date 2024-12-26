@@ -41,6 +41,50 @@ export default function MainPage() {
           years. This experience undoubtedly instilled in him a deep sense of
           responsibility and a commitment to public safety.
         </article>
+        <article className="text-[#333333] leading-snug">
+          Akan attended several professional and capacity building courses,
+          seminars and workshops that include but not limited to:
+          <ol>
+            <li>
+              √ Basic Explosive Ordnance Disposal course at Ikeja, Lagos 10th
+              March - 11th April 2007.
+            </li>
+            <li>
+              √ Emergency and Disaster Management workshop at Jos (Nigeria) 20th
+              - 22nd July 2009
+            </li>
+            <li>
+              √ Citizenship and Leadership Training Course at Jos (Nigeria) 17th
+              Nov. - 6th Dec. 2009
+            </li>
+            <li>
+              √ West Africa Security Threats and Awareness Seminar at Abuja
+              (Nigeria) 6th - 9th April 2014.
+            </li>
+            <li>
+              √ Post- blast Investigation (PBI) Course at North Carolina, USA
+              27th April - 14th May 2014
+            </li>
+            <li>
+              √ Explosive Interdictions Course (EIC) at Virginia, USA 12th July
+              - 29th August 2014.
+            </li>
+            <li>
+              √ Regional Security Threats and Awareness Seminar at Dakar,
+              Senegal 19th - 21st May 2015.
+            </li>
+            <li>
+              √ Operational Leadership Course at Jos (Nigeria) 7th June - 29th
+              September 2019.
+            </li>
+            <li>
+              √ Business Acumen for Small scale Entrepreneurs at Uyo 17th - 22nd
+              March 2022.
+            </li>
+          </ol>
+          Knowledge and experiences gathered undoubtedly instilled in him a deep
+          sense of responsibility...
+        </article>
       </div>
       <div className="space-y-6  text-2xl">
         <h2 className="text-[#2D89BF] font-bold">
